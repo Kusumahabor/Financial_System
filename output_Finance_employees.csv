@@ -1,0 +1,9 @@
+id,name,position,department,salary,hourly_rate
+1,John Doe,Manager,Finance,70000.00,35.00
+2,Alice Johnson,Analyst,Finance,50000.00,25.00
+3,Chris Evans,Clerk,Finance,45000.00,20.00
+18,Jessica Lee,Supervisor,Finance,53000.00,28.00
+19,Daniel Walker,Clerk,Finance,47000.00,22.00
+34,Edward Turner,Supervisor,Finance,52000.00,29.00
+35,Dorothy Phillips,Clerk,Finance,44000.00,21.00
+40,Justin Collins,Technician,Finance,52000.00,30.00
